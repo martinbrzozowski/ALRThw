@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LPR6235-752SMRC
+D Coupled Inductors 7.5uH 75% 1.6A 316 Ohms
+K
+F http://www.coilcraft.com/pdfs/lpr6235.pdf
+$ENDCMP
+#
+#End Doc Library
